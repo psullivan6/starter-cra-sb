@@ -1,5 +1,5 @@
 {
-  "name": "starter-cra-sb",
+  "name": "starter-storybook",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
